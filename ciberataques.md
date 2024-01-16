@@ -108,3 +108,7 @@ Al **CERT español** se puede acceder aquí:
 Tiene además una interesante sección específica de formación: <https://angeles.ccn-cert.cni.es/es/>
 
 ---
+
+## Enlaces
+
+- [CNN-Cert Glosario Ataques](https://www.ccn-cert.cni.es/publico/seriesCCN-STIC/series/400-Guias_Generales/401-glosario_abreviaturas/index.html?n=97.html)
